@@ -1,2 +1,2 @@
-berHello World (client side).
+Hello World (client side).
 Hello World (server side).
